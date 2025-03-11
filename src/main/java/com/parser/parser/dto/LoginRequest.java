@@ -1,4 +1,4 @@
-package com.parser.parser.controller;
+package com.parser.parser.dto;
 
 
 public class LoginRequest{
